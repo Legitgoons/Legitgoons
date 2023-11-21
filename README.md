@@ -1,4 +1,4 @@
-# Lee Uichan 이의찬
+# Lee Euchan 이의찬
 
 👩‍💻 Frontend Developer  
 
