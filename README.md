@@ -1,5 +1,5 @@
 # Lee Euchan 이의찬
-👩‍💻 Frontend Developer
+👩‍💻 Frontend Developer / 👀 Looking for a job 
 
 ### [Web Portfolio](https://web-portfolio-legitgoons.vercel.app)
 ### [Blog](https://cksxkr5193.tistory.com)
