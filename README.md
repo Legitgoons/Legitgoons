@@ -1,6 +1,6 @@
 ## 👩‍💻 Frontend Developer / 👀 Looking for a job 
 
-### [Resume](https://web-portfolio-legitgoons.vercel.app)
+### [Resume](https://resume-legitgoons.vercel.app)
 ### [Blog](https://cksxkr5193.tistory.com)
 
 ## Education
