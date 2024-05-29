@@ -4,7 +4,8 @@
 ### [Resume](https://resume-legitgoons.vercel.app)
 
 ## Doing Now
-- [💸Pennyway](https://github.com/CollaBu/pennyway-client-webview) (2024.03 ~ )
+- Project [💸Pennyway](https://github.com/CollaBu/pennyway-client-webview) (2024.03 ~ )
+- Package [📱React-iPhone-Layout](https://www.npmjs.com/package/react-iphone-layout)(2024.05 ~ )
 - Programmers DevCourse / Web FullStack With TypeScript, 3th (2024.04 ~ )
 
 ## Education
