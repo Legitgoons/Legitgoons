@@ -5,8 +5,7 @@
 
 ## Doing Now
 - Project [💸Pennyway](https://github.com/CollaBu/pennyway-client-webview) (2024.03 ~ )
-- Package [📱React-iPhone-Layout](https://www.npmjs.com/package/react-iphone-layout)(2024.05 ~ )
-- Programmers DevCourse / Web FullStack With TypeScript, 3th (2024.04 ~ )
+- Library [📱React-iPhone-Layout](https://www.npmjs.com/package/react-iphone-layout)(2024.05 ~ )
 
 ## Education
 - Samsung Software Academy for Youth(삼성청년SW아카데미) / Web, 9th (2023.01 ~ 2023.12)
