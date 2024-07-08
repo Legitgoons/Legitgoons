@@ -1,7 +1,6 @@
 ## 👩‍💻 Frontend Developer / 👀 Looking for a job 
 
 ### [Blog](https://cksxkr5193.tistory.com)
-### [Resume](http://naver.me/Fmf89Dqx)
 
 ## Doing Now
 - Project [💸Pennyway](https://github.com/CollaBu/pennyway-client-webview) (2024.03 ~ )
