@@ -2,7 +2,7 @@
 👨🏻‍💻 Web Frontend Developer 
 
 ### Career
-- [Tilda Corp.](https://argmax.kr/) / Web Frontend Developer (2024.08 ~ ing)
+- [Tilda Corp.](https://tildacorp.ai/) / Web Engineer (2024.08 ~ ing)
 
 ### Education
 - Samsung Software Academy for Youth(삼성청년SW아카데미) / Web, 9th (2023.01 ~ 2023.12)
