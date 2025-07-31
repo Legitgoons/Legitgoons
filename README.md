@@ -1,4 +1,4 @@
-# Lee Uichan 이의찬
+# 이의찬 Lee Uichan
 👨🏻‍💻 Web Frontend Developer 
 
 ### Career
