@@ -1,5 +1,5 @@
 # 이의찬 Lee Uichan
-👨🏻‍💻 Web Frontend Developer 
+👨🏻‍💻 Web Developer 
 
 ### Career
 - [Tilda Corp.](https://tildacorp.ai/) / Web Frontend Developer (2024.08 ~ 2025.05)
