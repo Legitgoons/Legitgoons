@@ -2,7 +2,7 @@
 👨🏻‍💻 Web Developer 
 
 ### Career
-- [Tilda Corp.](https://tildacorp.ai/) / Web Frontend Developer (2024.08 ~ 2025.05)
+- [Tilda Corp](https://tildacorp.ai/) / Web Frontend Developer (2024.08 ~ 2025.05)
 
 ### Education
 - 항해 플러스(Hanghae Plus) / FE, 6th (2025.07 ~ Now)
